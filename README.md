@@ -1,6 +1,6 @@
 # AI Smart Fitness Trainer using Computer Vision
 
-This project is a complete final-year project with:
+This project is a complete project with:
 
 - a **React + TypeScript + Vite + Tailwind CSS frontend**
 - a **Python + FastAPI + OpenCV + MediaPipe Pose backend**
